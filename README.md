@@ -16,7 +16,7 @@ This is the base code to start a web app with Sinatra. It's ready to push to Her
 
 3. run the webapp
     ```
-    puma
+    bundle exec puma
     ```
 
 # Notes
