@@ -2,6 +2,12 @@
 
 This is the base code to start a web app with Sinatra. It's ready to push to Heroku app and work with the styles of bootstrap v5.1.3.
 
+# Features
+- Use Bootstrap v5.1.3 styles
+- Use Sinatra::Reloader to reload app on code change (doesn’t load new files)
+- Use Byebug, a simple to use debugger for Ruby
+- Use Puma, a small library that provides a very fast and concurrent HTTP 1.1 server for Ruby web applications
+
 # Setup
 1. download the project
     ```
