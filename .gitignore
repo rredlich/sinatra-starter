@@ -1,0 +1,5 @@
+.bundle
+.env
+.byebug_history
+Gemfile.lock
+tmp
