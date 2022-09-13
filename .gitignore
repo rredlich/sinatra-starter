@@ -1,5 +1,5 @@
 .bundle
-.env
 .byebug_history
+config/.env
 Gemfile.lock
 tmp

@@ -7,6 +7,8 @@ This is the base code to start a web app with Sinatra. It's ready to push to Her
 - Use Sinatra::Reloader to reload app on code change (doesn’t load new files)
 - Use Byebug, a simple to use debugger for Ruby
 - Use Puma, a small library that provides a very fast and concurrent HTTP 1.1 server for Ruby web applications
+- Use dotenv to automatic load environment variables
+- Use Sinatra cookies
 
 # Setup
 1. download the project
